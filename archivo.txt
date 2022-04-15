@@ -2,8 +2,4 @@ Esta es la prueba con una archivo de text.
 
 esta es otra cosa.
 
-
-xxx
-
-
-Otra prueba.
+Este es la nueva versipon de código
