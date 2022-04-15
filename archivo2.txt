@@ -1,4 +1,4 @@
 Este es un archivo nuevo.
 
 
-xxxx
+ABCD nuevo cambio en el archivo
